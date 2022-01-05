@@ -24,3 +24,5 @@ In this case study, you will use EDA to understand how consumer attributes and l
 
 
 ## All the observations and analysis are done in loan_data_analysis.ipynb file 
+
+##Contributor: Anurag Mishra
